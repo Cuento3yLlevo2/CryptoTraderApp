@@ -1,9 +1,9 @@
 <component name="libraryTable">
   <library name="Gradle: androidx.appcompat:appcompat-resources:1.4.0-alpha03@aar">
     <CLASSES>
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292e731769ae6c1b1a537eafe4ce8f45/jetified-appcompat-resources-1.4.0-alpha03/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292e731769ae6c1b1a537eafe4ce8f45/jetified-appcompat-resources-1.4.0-alpha03/res" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/292e731769ae6c1b1a537eafe4ce8f45/jetified-appcompat-resources-1.4.0-alpha03/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76942ef45fc10a4611c2cd56ac5e258b/jetified-appcompat-resources-1.4.0-alpha03/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76942ef45fc10a4611c2cd56ac5e258b/jetified-appcompat-resources-1.4.0-alpha03/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/76942ef45fc10a4611c2cd56ac5e258b/jetified-appcompat-resources-1.4.0-alpha03/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES>
